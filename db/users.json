@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "juanito",
+      "email": "juan@gmail.edu.com",
+      "age": 20,
+      "id": "2adbb432-e735-4d14-9e3c-dbbf66edbd63"
+    },
+    {
+      "name": "hansito",
+      "email": "hans@gmail.com",
+      "age": 21,
+      "id": "5b29d113-5d86-4710-8f4a-f0dd5becc5c1"
+    }
+  ]
+}
